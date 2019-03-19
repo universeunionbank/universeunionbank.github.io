@@ -12,7 +12,7 @@
 		  font-family: 'Italiana';
 		  font-style: normal;
 		  font-weight: 400;
-		  src: local('Italiana'), local('Italiana-Regular'), url() format('woff2');
+		  src: local('Italiana'), local('Italiana-Regular'), url(https://www.universeunionbank.com/ITCAvantGardeGothicExtraLig.ttf) format('woff2');
 		  src: local('Italiana2'), local('Italiana-Regular'), url() format('woff2')
 		  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 		}
@@ -125,6 +125,7 @@
 				<a href="/mobile/">移动</a>
 			</span>
 			<span id="ft-r">
+			<a href="/home/">关于</a>
 			<a href="/about/">更多产品</a>
 			<a href="/policies/">隐私权和使用条款</a>
 			</span>
